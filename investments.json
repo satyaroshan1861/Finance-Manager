@@ -1,0 +1,29 @@
+[
+  {
+    "name": "AAPL",
+    "investment_type": "Stock",
+    "purchase_date": "2022-01-15",
+    "purchase_price": 150.0,
+    "quantity": 10.0,
+    "current_price": 175.0,
+    "last_updated": "2025-05-15"
+  },
+  {
+    "name": "MSFT",
+    "investment_type": "Stock",
+    "purchase_date": "2022-02-20",
+    "purchase_price": 280.0,
+    "quantity": 5.0,
+    "current_price": 300.0,
+    "last_updated": "2025-05-15"
+  },
+  {
+    "name": "VTI",
+    "investment_type": "ETF",
+    "purchase_date": "2022-03-10",
+    "purchase_price": 200.0,
+    "quantity": 15.0,
+    "current_price": 210.0,
+    "last_updated": "2025-05-15"
+  }
+]

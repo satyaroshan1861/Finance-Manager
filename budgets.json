@@ -1,0 +1,37 @@
+[
+  {
+    "category": "Groceries",
+    "amount": 300.0,
+    "period": "monthly",
+    "start_date": "2025-05-15",
+    "end_date": null
+  },
+  {
+    "category": "Dining",
+    "amount": 150.0,
+    "period": "monthly",
+    "start_date": "2025-05-15",
+    "end_date": null
+  },
+  {
+    "category": "Entertainment",
+    "amount": 200.0,
+    "period": "monthly",
+    "start_date": "2025-05-15",
+    "end_date": null
+  },
+  {
+    "category": "Utilities",
+    "amount": 250.0,
+    "period": "monthly",
+    "start_date": "2025-05-15",
+    "end_date": null
+  },
+  {
+    "category": "Food",
+    "amount": 350.0,
+    "period": "Daily",
+    "start_date": "2025-05-15",
+    "end_date": null
+  }
+]

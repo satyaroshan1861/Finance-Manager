@@ -1,0 +1,58 @@
+[
+  {
+    "amount": 1000.0,
+    "category": "Salary",
+    "description": "Monthly salary",
+    "date": "2025-05-15",
+    "transaction_type": "income"
+  },
+  {
+    "amount": 500.0,
+    "category": "Freelance",
+    "description": "Website project",
+    "date": "2025-05-15",
+    "transaction_type": "income"
+  },
+  {
+    "amount": 150.0,
+    "category": "Groceries",
+    "description": "Weekly shopping",
+    "date": "2025-05-15",
+    "transaction_type": "expense"
+  },
+  {
+    "amount": 50.0,
+    "category": "Dining",
+    "description": "Restaurant dinner",
+    "date": "2025-05-15",
+    "transaction_type": "expense"
+  },
+  {
+    "amount": 200.0,
+    "category": "Utilities",
+    "description": "Electricity bill",
+    "date": "2025-05-15",
+    "transaction_type": "expense"
+  },
+  {
+    "amount": 100.0,
+    "category": "Entertainment",
+    "description": "Movie and dinner",
+    "date": "2025-05-15",
+    "transaction_type": "expense"
+  },
+  {
+    "amount": 300.0,
+    "category": "Rent",
+    "description": "Monthly rent",
+    "date": "2025-05-15",
+    "transaction_type": "expense"
+  },
+  {
+    "amount": 100.0,
+    "category": "kj",
+    "description": "d",
+    "date": "2025-05-15",
+    "transaction_type": "expense"
+  }
+]
